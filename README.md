@@ -52,7 +52,7 @@ This lightweight web app allows users to input simple health metrics and instant
 
 ---
 
-## 📦 Installation & Run Locally
+
 
 ## 📦 Installation & Run Locally
 
